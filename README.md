@@ -65,4 +65,11 @@ A high-quality, manually-labeled dataset that links **Indian financial news head
 ```csv
 Ticker,Headline,Date,Close,1d_return,3d_return,5d_return,sentiment,score,max_abs_return
 INFY,Infosys reports 12% decline in profit amid global slowdown,2024-07-12,1425.30,-2.18,-1.75,-0.94,negative,0.984,2.18
+```
+## 📌 License
 
+This dataset is released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to share, use, and build upon this dataset — even commercially — as long as you credit the original creator:
+
+**Siddharth Pratap Singh**
